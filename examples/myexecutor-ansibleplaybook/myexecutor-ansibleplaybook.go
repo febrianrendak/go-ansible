@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	ansibler "github.com/apenella/go-ansible"
+	ansibler "github.com/febrianrendak/go-ansible"
 )
 
 type MyExecutor struct{}

@@ -1,7 +1,7 @@
 package main
 
 import (
-	ansibler "github.com/apenella/go-ansible"
+	ansibler "github.com/febrianrendak/go-ansible"
 )
 
 func main() {

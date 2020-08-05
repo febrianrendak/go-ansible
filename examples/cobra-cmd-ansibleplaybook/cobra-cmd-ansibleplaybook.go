@@ -10,7 +10,7 @@ import (
 	"os"
 	"strings"
 
-	ansibler "github.com/apenella/go-ansible"
+	ansibler "github.com/febrianrendak/go-ansible"
 	"github.com/spf13/cobra"
 )
 
